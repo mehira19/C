@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1584821794 source:/home/kady/Documents/puissance4_rahim/main.c
+	<stdio.h>
+	<stdlib.h>
+	"initialisation.h"
+	"afficher.h"
+	"menu.h"
+	"gagnant.h"
+	"coordonee_valide.h"
+
+1584751140 /home/kady/Documents/puissance4_rahim/initialisation.h
+
+1584751169 /home/kady/Documents/puissance4_rahim/afficher.h
+
+1584818572 /home/kady/Documents/puissance4_rahim/menu.h
+
+1584820456 /home/kady/Documents/puissance4_rahim/gagnant.h
+
+1584772097 /home/kady/Documents/puissance4_rahim/coordonee_valide.h
+
+1584821794 source:/home/kady/Documents/puissance4/main.c
+	<stdio.h>
+	<stdlib.h>
+	"initialisation.h"
+	"afficher.h"
+	"menu.h"
+	"gagnant.h"
+	"coordonee_valide.h"
+
+1584751140 /home/kady/Documents/puissance4/initialisation.h
+
+1584751169 /home/kady/Documents/puissance4/afficher.h
+
+1584818572 /home/kady/Documents/puissance4/menu.h
+
+1584820456 /home/kady/Documents/puissance4/gagnant.h
+
+1584772097 /home/kady/Documents/puissance4/coordonee_valide.h
+
