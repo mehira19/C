@@ -1,0 +1,47 @@
+Bienvenue dans le jeu du Morpion 
+
+La regle est simple, vous devez reussir à aligner 3 croix ou ronds.
+Le premier joueur à aligner une suite de 3 symboles, horizontalement, verticalement ou diagonalement.
+!! GAGNE. !! la partie 
+
+
+Et dans ce teste vous pourrez immortalise le joueur gagnant. SUERTE!%%
+
+
+
+
+
+
+
+
+
+
+**********PARTIE*************
+La partie entre le joueur Soeurs et le joueur Petites_Soeurs s'est terminé a egalité ! 
+
+ 
+
+
+
+**********PARTIE*************
+Joueur 1 : Lama VS Joueur 2 : Rahim
+YOUYOUUU !!!!! Le Joueur 1 : Lama a gagné la partie 
+
+
+
+**********PARTIE*************
+Joueur 1 : Maman VS Joueur 2 : Papa
+YOUYOUUU !!!!! Le Joueur 1 a gagné la partie 
+
+
+
+**********PARTIE*************
+Joueur 1 : Lama VS Joueur 2 : Rahim
+YOUYOUUU !!!!! Le Joueur 2 a gagné la partie 
+
+
+
+**********NOUVELE PARTIE*************
+Joueur 1 : rtr VS Joueur 2 : tyt
+YOUYOUUU !!!!! Le Joueur 1 a gagné la partie 
+

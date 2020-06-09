@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584233833 source:/home/kady/Documents/rahim_jeu_morpion/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1584233833 source:/home/kady/Documents/morpion/main.c
+	<stdio.h>
+	<stdlib.h>
+
